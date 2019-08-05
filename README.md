@@ -1,4 +1,4 @@
-## Design a Fuzzy System in Matlab With Two Inputs (GUI) ##
+## Design a Fuzzy System in MATLAB With Two Inputs (GUI) ##
 
 ### By MoeinDanA ###
 
